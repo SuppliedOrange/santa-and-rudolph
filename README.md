@@ -19,4 +19,5 @@ You'll need to put your own Gemini API key in the `.env` file, you can get one f
 
 ## Playing the game
 
+Run `python test.py` in the same directory. The game should open up, provided you've completed installation and setting it up.
 You're free to do as you please, but don't let your reindeer die!
