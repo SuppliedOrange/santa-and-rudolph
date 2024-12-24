@@ -21,3 +21,8 @@ You'll need to put your own Gemini API key in the `.env` file, you can get one f
 
 Run `python test.py` in the same directory. The game should open up, provided you've completed installation and setting it up.
 You're free to do as you please, but don't let your reindeer die!
+
+## Fun fact
+There's a second version on this branch that has a few more playable features and was done after the event.
+https://github.com/SuppliedOrange/santa-and-rudolph/tree/second-version
+
